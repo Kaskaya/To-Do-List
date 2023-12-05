@@ -1,3 +1,3 @@
-# Weather App witch JavScript and Tailwind
+# Todo List 
 
-https://weather-app-project-t.vercel.app/
+
